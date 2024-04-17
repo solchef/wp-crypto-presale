@@ -1,0 +1,6 @@
+/* Admin Styles for WP Crypto Presale Plugin */
+
+/* Hide all sections initially */
+form > div:not(:first-child) {
+    display: none;
+}
